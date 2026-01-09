@@ -9,7 +9,7 @@ import ourcars5 from "../../assets/ourcars5.png";
 import ourcars6 from "../../assets/ourcars6.png";
 export default function OurCars() {
   return (
-    <div className="dark:bg-gray-900 dark:text-whitemax-w-[1280px] mx-auto min-h-[400px] px-4 py-10 sm:py-0 overflow-x-hidden" id="Booking">
+    <div className="dark:bg-gray-900 dark:text-white max-w-[1280px] mx-auto min-h-[400px] px-4 py-10 sm:py-0 overflow-x-hidden" id="Booking">
       <div className=" flex flex-col justify-center items-center mt-[10px] lg:mt-[40px] sm:mt-[30px]">
         <div className="text-center">
           <h1 className="text-3xl sm:text-4xl font-bold font-serif">
